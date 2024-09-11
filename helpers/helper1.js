@@ -1,5 +1,9 @@
-function helperSum(a,b){
+export function helperSum(a,b){
 return a+b
 }
 
-module.exports = helperSum
+
+
+export function helperminus(a,b){
+    return a-b
+}
